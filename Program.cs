@@ -5,8 +5,8 @@ Console.WriteLine("Welcome to the PigDie Casino; cheat and we feed you to the pi
 
 PigDiceGame.PigDice pigdice = new();
 
-int score = pigdice.PlayHighScore(20);
+int score = pigdice.PlayHighScore(35);
 
 System.Console.WriteLine($"Highscore is {score}");
 
-//pigdice.PlayUntilScoreMet(500);
+//pigdice.PlayUntilScoreMet(100);
