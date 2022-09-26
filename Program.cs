@@ -9,4 +9,4 @@ int score = pigdice.PlayHighScore(35);
 
 System.Console.WriteLine($"Highscore is {score}");
 */
-pigdice.PlayUntilScoreMet(100);
+pigdice.PlayUntilScoreMet(460);

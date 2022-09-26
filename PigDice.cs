@@ -33,8 +33,13 @@ namespace PigDiceGame;
 
         public int PlayUntilScoreMet(int ScoreReq) {
                 int score = 0;
-                int games = 0;
+                int highscore = 0;
+                ulong games = 0;
                 while(score <= ScoreReq) {
+                    if(highscore < score) {
+                        highscore = score;
+                        System.Console.WriteLine($"{highscore}," );
+                    }
                     games++;
                     score = Play();
                 }
