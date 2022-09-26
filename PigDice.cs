@@ -14,7 +14,7 @@ namespace PigDiceGame;
                 score +=roll;
                 //roll = RollDie();
             }
-            System.Console.WriteLine("Game over, you rolled a one");
+            //System.Console.WriteLine("Game over, you rolled a one");
 
             return score; 
 
@@ -24,7 +24,7 @@ namespace PigDiceGame;
             for(int rounds = 0; rounds < games; rounds++) {
             int score = Play();
             GameScores.Add(score);
-            System.Console.WriteLine($"Game number {rounds+1} resulted in {score}");
+            //System.Console.WriteLine($"Game number {rounds+1} resulted in {score}");
             }
             return GameScores.Max();
             }
