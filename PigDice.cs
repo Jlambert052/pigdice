@@ -38,13 +38,13 @@ namespace PigDiceGame;
                 while(score <= ScoreReq) {
                     if(highscore < score) {
                         highscore = score;
-                        System.Console.WriteLine($"{highscore}," );
+                        System.Console.Write($"{highscore}," );
                     }
                     games++;
                     score = Play();
                 }
-                    System.Console.WriteLine("Congratulations; RNG is on your side.");
-                    System.Console.WriteLine($"This only took you {games} games.");
+                    System.Console.WriteLine($"\n Congratulations; RNG is on your side.");
+                    System.Console.WriteLine($"This only took you {games:N0} games.");
                     return score;
         }
     }

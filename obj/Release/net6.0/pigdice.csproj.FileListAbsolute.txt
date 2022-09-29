@@ -1,0 +1,15 @@
+C:\repos\C#Projects\pigdice\bin\Release\net6.0\pigdice.exe
+C:\repos\C#Projects\pigdice\bin\Release\net6.0\pigdice.deps.json
+C:\repos\C#Projects\pigdice\bin\Release\net6.0\pigdice.runtimeconfig.json
+C:\repos\C#Projects\pigdice\bin\Release\net6.0\pigdice.dll
+C:\repos\C#Projects\pigdice\bin\Release\net6.0\pigdice.pdb
+C:\repos\C#Projects\pigdice\obj\Release\net6.0\pigdice.csproj.AssemblyReference.cache
+C:\repos\C#Projects\pigdice\obj\Release\net6.0\pigdice.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#Projects\pigdice\obj\Release\net6.0\pigdice.AssemblyInfoInputs.cache
+C:\repos\C#Projects\pigdice\obj\Release\net6.0\pigdice.AssemblyInfo.cs
+C:\repos\C#Projects\pigdice\obj\Release\net6.0\pigdice.csproj.CoreCompileInputs.cache
+C:\repos\C#Projects\pigdice\obj\Release\net6.0\pigdice.dll
+C:\repos\C#Projects\pigdice\obj\Release\net6.0\refint\pigdice.dll
+C:\repos\C#Projects\pigdice\obj\Release\net6.0\pigdice.pdb
+C:\repos\C#Projects\pigdice\obj\Release\net6.0\pigdice.genruntimeconfig.cache
+C:\repos\C#Projects\pigdice\obj\Release\net6.0\ref\pigdice.dll
